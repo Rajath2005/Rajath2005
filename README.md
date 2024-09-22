@@ -43,9 +43,8 @@
 
 <div align="center">
   <a href="https://github.com/Rajath2005/ProjectXApp.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=radical" />
-
-  </a>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react" />
+ </a>
   <a href="https://github.com/Rajath2005/File-mangement.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react" />
   </a>
@@ -67,7 +66,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Activity Graph
 
-<img alt="yourusername's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Rajath Kiran A Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ## 🎯 Goals for 2024
 
