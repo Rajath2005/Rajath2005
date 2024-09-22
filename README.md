@@ -43,7 +43,8 @@
 
 <div align="center">
   <a href="https://github.com/Rajath2005/ProjectXApp.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=radical" />
+
   </a>
   <a href="https://github.com/Rajath2005/File-mangement.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react" />
