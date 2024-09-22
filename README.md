@@ -7,14 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CFF&center=true&vCenter=true&width=435&lines=Engineering+Student;Web+Developer;AI+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/yourusername">
-    <img src="https://img.shields.io/twitter/follow/yourusername?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-</p>
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
