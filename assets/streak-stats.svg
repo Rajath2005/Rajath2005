@@ -7,7 +7,7 @@
 
   <!-- Date range header -->
   <text x="390.0" y="21" text-anchor="middle" fill="#6E7681"
-        font-size="11" font-family="'Segoe UI',Arial,sans-serif">2024-01-01 – 2026-09-04</text>
+        font-size="11" font-family="'Segoe UI',Arial,sans-serif">2024-01-01 – 2026-09-05</text>
 
   <!-- Three columns -->
   
@@ -15,7 +15,7 @@
   <text x="147.3" y="54"  text-anchor="middle" fill="#8B949E"
         font-size="12.5" font-family="'Segoe UI',Arial,sans-serif">Total Contributions</text>
   <text x="147.3" y="118" text-anchor="middle" fill="#FFFFFF"
-        font-size="44" font-weight="700" font-family="'Segoe UI',Arial,sans-serif">1,956</text>
+        font-size="44" font-weight="700" font-family="'Segoe UI',Arial,sans-serif">1,961</text>
   <text x="147.3" y="150" text-anchor="middle" fill="#8B949E"
         font-size="12.5" font-family="'Segoe UI',Arial,sans-serif">contributions</text>
   
@@ -23,7 +23,7 @@
   <text x="390.0" y="54"  text-anchor="middle" fill="#8B949E"
         font-size="12.5" font-family="'Segoe UI',Arial,sans-serif">Current Streak</text>
   <text x="390.0" y="118" text-anchor="middle" fill="#FF6B35"
-        font-size="44" font-weight="700" font-family="'Segoe UI',Arial,sans-serif">1 🔥</text>
+        font-size="44" font-weight="700" font-family="'Segoe UI',Arial,sans-serif">2 🔥</text>
   <text x="390.0" y="150" text-anchor="middle" fill="#8B949E"
         font-size="12.5" font-family="'Segoe UI',Arial,sans-serif">days</text>
   
